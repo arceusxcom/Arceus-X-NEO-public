@@ -17,7 +17,7 @@ Welcome to **Arceus X NEO** – the pinnacle of Roblox exploiting. Designed with
 
 ## 📖 Getting Started
 
-1. [Download the latest release](https://spdmteam.com/).
+1. [Download the latest release](https://arceusx.com).
    
 2. Extract the files and run the installer.
    
@@ -31,4 +31,4 @@ Safety is paramount. Arceus X NEO is frequently updated to ensure it remains und
 
 Join our community for updates, script sharing, and more:
 - [Discord](https://discord.g//arceus)
-- [Website](https://spdmteam.com/arceusx)
+- [Website](https://arceusx.com)
